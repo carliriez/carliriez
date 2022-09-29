@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carliriez
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... Web Development
+- 💞️ I’m looking to collaborate on ... Web & Mobile App Development
 - 📫 How to reach me ... email me on: carliriezcabiles@gmail.com
 
 <!---
